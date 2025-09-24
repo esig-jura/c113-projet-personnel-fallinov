@@ -4,9 +4,11 @@
 ## 1. 🎨 Présentation du projet
 
 ### Concept
-- Thème choisi : …
-- Public cible : …
-- Objectifs du site : …
+- Thème choisi : Monsieur Mc Donald
+- Public cible :
+  - Les enfants qui aiment le gras et les boissons sucrées
+  - Les grands-parents qui n'aiment pas cuisiner pour leurs petits-enfants
+- Objectifs du site : [lien de démo](https://fallinov.github.io/esig-sfa-113-projet-personnel/)
 
 ### Fonctionnalités prévues
 - Navigation : …
@@ -35,7 +37,7 @@
 ## 3. 🛠️ Outils et méthodologie
 
 ### Environnement de travail
-- IDE : …
+- IDE : WebStorm
 - Navigateurs de test : …
 - Versioning : Git + GitHub
 - Validation : Validator W3C, PageSpeed Insights, Wave
